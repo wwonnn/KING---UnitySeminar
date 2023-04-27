@@ -1,2 +1,2 @@
-# Unity---Undead_Survivor
-unity project - undead survivor
+# Unity---unity seminar
+unity project - Creator_Kit
